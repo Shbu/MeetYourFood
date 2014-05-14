@@ -33,15 +33,15 @@ Technical Specifications:
 More Details
 ---------------------
 You might want to browse through below files to get more information on implementations and competitor list.
-1. Report_Web Mining v2.0 (Team MeetYourFood).pdf
-2. Presentation_Web Mining v2.0 (Team MeetYourFood).pdf
+Report_Web Mining v2.0 (Team MeetYourFood).pdf, 
+Presentation_Web Mining v2.0 (Team MeetYourFood).pdf
 
 Founders
 ---------------
-Anshul, jain
-Ankur, Solanki
-Sharan Babu, Katragadda
-Sidharth, Agarwal
+Anshul jain,
+Ankur Solanki,
+Sharan Babu Katragadda,
+Sidharth Agarwal
 
 Copy Rights Reserved - MeetYourFood
 --------------
