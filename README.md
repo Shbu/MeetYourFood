@@ -38,10 +38,10 @@ You might want to browse through below files to get more information on implemen
 
 Founders
 ---------------
-Anshul jain
-Ankur Solanki
-Sharan Babu Katragadda
-Sidharth Agarwal
+Anshul, jain
+Ankur, Solanki
+Sharan Babu, Katragadda
+Sidharth, Agarwal
 
 Copy Rights Reserved - MeetYourFood
 ---------------
